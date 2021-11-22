@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
-</head>
-<body>
-
-# Jacob Cabral
-
-<img src="ProfilePic.jpeg" style="width:200px">
-
-</body>
-</html>
+<img src="ProfilePic.jpeg">
 
 
 #### 1376 Storrs Road, Unit 4066, Storrs CT 06269 • (781) 799 - 7836 • jacob.cabral.96@hotmail.com
